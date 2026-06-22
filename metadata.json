@@ -1,0 +1,8 @@
+{
+  "name": "Моё портфолио fullstack - разработчика",
+  "description": "портфолио Fullstack - разработчика по имени Александр, оформленное в стиле винтажного письма французского стиля.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
